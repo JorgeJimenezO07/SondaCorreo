@@ -126,7 +126,7 @@ namespace SondaCorreo
                     }
                 }
 
-                return "BIEN";
+                return "TODO BIEN";
             }
         }
     }
