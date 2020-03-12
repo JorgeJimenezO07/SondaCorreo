@@ -1,0 +1,10 @@
+C:\etb\SondaCorreo\SondaCorreo\bin\SondaCorreo.dll.config
+C:\etb\SondaCorreo\SondaCorreo\bin\SondaCorreo.dll
+C:\etb\SondaCorreo\SondaCorreo\bin\SondaCorreo.pdb
+C:\etb\SondaCorreo\SondaCorreo\bin\AE.Net.Mail.dll
+C:\etb\SondaCorreo\SondaCorreo\bin\AE.Net.Mail.pdb
+C:\etb\SondaCorreo\SondaCorreo\obj\Debug\SondaCorreo.csproj.CoreCompileInputs.cache
+C:\etb\SondaCorreo\SondaCorreo\obj\Debug\SondaCorreo.csproj.CopyComplete
+C:\etb\SondaCorreo\SondaCorreo\obj\Debug\SondaCorreo.dll
+C:\etb\SondaCorreo\SondaCorreo\obj\Debug\SondaCorreo.pdb
+C:\etb\SondaCorreo\SondaCorreo\obj\Debug\SondaCorreo.csprojAssemblyReference.cache

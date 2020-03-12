@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\etb\SondaCorreo\SondaCorreo\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AE.Net.Mail.dll">
+      <publishTime>04/21/2015 07:16:00</publishTime>
+    </File>
+    <File Include="bin/AE.Net.Mail.pdb">
+      <publishTime>04/21/2015 07:16:00</publishTime>
+    </File>
+    <File Include="bin/i.Lib.dll">
+      <publishTime>02/03/2020 08:48:26</publishTime>
+    </File>
+    <File Include="bin/i.Lib.pdb">
+      <publishTime>02/03/2020 08:48:26</publishTime>
+    </File>
+    <File Include="bin/i.Lib.XmlSerializers.dll">
+      <publishTime>02/03/2020 08:48:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/SondaCorreo.dll">
+      <publishTime>02/03/2020 10:00:49</publishTime>
+    </File>
+    <File Include="bin/SondaCorreo.pdb">
+      <publishTime>02/03/2020 10:00:49</publishTime>
+    </File>
+    <File Include="css/fontawesome-all.min.css">
+      <publishTime>05/20/2018 22:18:17</publishTime>
+    </File>
+    <File Include="css/fonts.css">
+      <publishTime>05/20/2018 22:18:17</publishTime>
+    </File>
+    <File Include="css/reset.css">
+      <publishTime>05/20/2018 22:18:17</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>11/20/2019 09:48:16</publishTime>
+    </File>
+    <File Include="fonts/744025/67b02dd4-4502-4d7f-9e19-85593bd312df.eot">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744025/7dd64573-ad91-4ff9-ba7e-e0f30a558a66.ttf">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744025/c366c12f-e5cb-4cda-a61b-5c4dcf98fa0d.woff">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744025/f28278a0-7eb0-4bc4-b029-8d11f49b6e6a.svg">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744028/0eff223a-acfb-40ac-a661-20320824a011.svg">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/744028/6eb1445b-270d-4656-bc6c-f0123f906abd.eot">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/744028/ed00ec89-b9b2-4189-84f9-bbb9edf71540.woff">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/744028/fff28a0c-b45f-4d58-9717-84e95d34d328.ttf">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/744031/36507799-8d72-4c50-ad1a-e13d982b4998.svg">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744031/4255166b-4bc1-4726-b363-50a948179ac3.ttf">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744031/afe2741c-b46c-4669-9498-6277316ae0e4.woff">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744031/f0d681e3-3003-42bd-b2ab-00963b0701a3.eot">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744034/b20617f6-58e0-4f0d-aa33-99b3db3626d1.eot">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744034/b7d55c7d-ef74-4820-8706-4cc32936b1ed.ttf">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744034/d76ddcb9-04c4-461c-bd67-9dbb34a21653.svg">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/744034/e779a118-4a48-4d02-b508-42ffcca65029.woff">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Black.eot">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Black.svg">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Black.ttf">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Black.woff">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Bold.eot">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Bold.svg">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Bold.ttf">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Bold.woff">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Light.eot">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Light.svg">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Light.ttf">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Light.woff">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Medium.eot">
+      <publishTime>11/07/2019 12:16:09</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Medium.svg">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Medium.ttf">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/DINPro-Medium.woff">
+      <publishTime>11/07/2019 12:16:10</publishTime>
+    </File>
+    <File Include="fonts/DINPro.eot">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro.svg">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro.ttf">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="fonts/DINPro.woff">
+      <publishTime>11/07/2019 12:16:08</publishTime>
+    </File>
+    <File Include="img/ajax-loader.gif">
+      <publishTime>11/20/2019 10:10:25</publishTime>
+    </File>
+    <File Include="img/logoetb.png">
+      <publishTime>05/20/2018 22:18:17</publishTime>
+    </File>
+    <File Include="js/siteJs.js">
+      <publishTime>02/03/2020 09:57:19</publishTime>
+    </File>
+    <File Include="LecturaCorreo.aspx">
+      <publishTime>02/03/2020 09:55:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/03/2020 09:38:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
